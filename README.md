@@ -7,4 +7,5 @@ Here you will find the Google Colab - Python Notebook used for my latest Python 
 
 
 Youtube: https://youtu.be/dsdOe83Yfpg
+
 Python For Beginners: https://medium.com/swlh/python-for-beginners-lists-998fc0e69704
